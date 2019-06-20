@@ -1,2 +1,2 @@
 # Automobile-Management-System
-a c++ project on automobile management system where an customer and owner in the agency can use the crude operations and manage the services
+A C++ Project on Automobile Management System where one can use crude methods for the Customers and Update the Automobiles added at the Portal.
